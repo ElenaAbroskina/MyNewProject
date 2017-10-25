@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<restaurant>
+    <date>
+        <day>24</day>
+        <month>4</month>
+        <year>2017</year>
+
+        <officiant firstname= "Maria" secondname="Ivanova" />
+        <item name="Lunch" cost="250"/>
+        <item name="Water" cost="30"/>
+
+        <officiant firstname="Oleg" secondname="Petrov"/>
+        <item name="Omlet" cost="70"/>
+        <item name="Tea" cost="50"/>
+        <item name="sandvich" cost="150"/>
+
+        <officiant firstname="Ivan" secondname="Sidorov"/>
+        <item name="Vino" cost="400"/>
+        <item name="set of rolls" cost="1000"/>
+    </date>
+</restaurant>
